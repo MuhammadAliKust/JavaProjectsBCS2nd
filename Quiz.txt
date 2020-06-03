@@ -1,0 +1,28 @@
+Quiz#1
+
+Q#1:
+Wirte a java program using switch statement that performs following operations:
+	Press 1 for Addition
+	Press 2 for Subtraction
+	Press 3 for Multiplication
+	Press 4 for Division
+	Press 5 for Mod Operation
+	Press 6 to add two numbers and then take their squareRoot.
+	Press 7 to exit App programmatically.
+Instructions:
+	Use separate methods/functions for each operation like add() function for addition and so on.
+	Take input from user.
+	
+
+Q#2:
+Design a HealthProfile class for a person. The class attributes should include the person’s first name, last name, gender, height, weight.
+	Your class should have a constructor that receives this data. For each attribute, provide set and get methods. 
+	Your class should have a toString() method.
+	Your class should have a calculateBMI() method that calculate BMI using following formulae:
+		BMI = weight/(height)^2
+	Write a Java app that prompts for the person’s information, instantiates an object of class HealthProfile for that person and prints the information from that object.
+
+									^^^^^^^^^Last Date of Submission is 07-06-2020^^^^^^^^^
+										===============Best of Luck=============
+									
+ 
